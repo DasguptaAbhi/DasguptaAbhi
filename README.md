@@ -6,11 +6,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    </a>
+    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=Microsoft-SQL-Server&logoColor=white" alt="SQL" />
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python" />
+    </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python" />
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
     </a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" />
