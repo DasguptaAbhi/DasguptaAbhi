@@ -9,14 +9,14 @@
 - Developing dashboards on Power BI and Tableau.
 - Data analysis and reporting using Excel and Google Sheets.
 
- ### Skills
+ ### 🛠️ Skills
 - Programming Languages: Python, SQL
 - Data Analysis Tools: Excel, Tableau, Power BI, MySQL
 - Platform:  Jupyter Notebook, Visual Studio Code
 - Frameworks: Pandas, Numpy, Matplotlib, Seborn, Scipy
   
 
-### Databases
+### 🛢 Databases
 </p>
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -28,8 +28,8 @@
 </p>
 
    
+### 🌐 Connect with me:
 </p>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abhipsita-dasgupta" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://kaggle.com/abhipsitadasgupta" target="_blank"><img align="center" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
