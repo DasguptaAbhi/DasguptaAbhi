@@ -31,7 +31,7 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/abhipsita-dasgupta" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/abhipsita-dasgupta" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://kaggle.com/abhipsitadasgupta" target="_blank"><img align="center" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
 
