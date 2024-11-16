@@ -17,15 +17,21 @@
   
 
 ### Databases
+</p>
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" />
     </a>
+    <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=google-bigquery&logoColor=white" alt="BigQuery" />
+    </a>
+</p>
+
    
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href= "www.linkedin.com/in/abhipsita-dasgupta" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
+<a href="www.linkedin.com/in/abhipsita-dasgupta" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://kaggle.com/abhipsitadasgupta" target="_blank"><img align="center" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
 
