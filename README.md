@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abhipsita Dasgupta</h1>
+
 
 ![White Minimalist Profile  Bannre](https://github.com/DasguptaAbhi/DasguptaAbhi/blob/main/White%20Minimalist%20Profile%20%20Banner.png)
 
-### A passionate Data Analyst from India
+### Hi 👋, I'm Abhipsita Dasgupta, A passionate Data Analyst from India
+
 - 🌱 I’m currently advancing my skills with the **Google Advanced Data Analytics Professional Certificate**
 - 📫 You can reach me at **adasgupta.official@gmail.com**
 - Generate reports and perform ad-hoc data analysis using SQL.
