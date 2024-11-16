@@ -1,38 +1,22 @@
 <h1 align="center">Hi 👋, I'm Abhipsita Dasgupta</h1>
-![White Minimalist Profile  Banner]()
-<h3 align="left">A passionate Data Analyst from India</h3>
 
+![White Minimalist Profile  Bannre](https://github.com/DasguptaAbhi/DasguptaAbhi/blob/main/White%20Minimalist%20Profile%20%20Banner.png)
+
+### A passionate Data Analyst from India
 - 🌱 I’m currently advancing my skills with the **Google Advanced Data Analytics Professional Certificate**
 - 📫 You can reach me at **adasgupta.official@gmail.com**
+- Generate reports and perform ad-hoc data analysis using SQL.
+- Developing dashboards on Power BI and Tableau.
+- Data analysis and reporting using Excel and Google Sheets.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    </a>
-    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=Microsoft-SQL-Server&logoColor=white" alt="SQL" />
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python" />
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-    </a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" />
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white" alt="Excel" />
-    </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-Power BI-F2C811?style=flat&logo=Power-BI&logoColor=black" alt="Power BI" />
-    </a>
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white" alt="Tableau" />
-    </a>
+ ### Skills
+- Programming Languages: Python, SQL
+- Data Analysis Tools: Excel, Tableau, Power BI, MySQL
+- Platform:  Jupyter Notebook, Visual Studio Code
+- Frameworks: Pandas, Numpy, Matplotlib, Seborn, Scipy
+  
 
-<h3 align="left">Databases:</h3>
+### Databases
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL" />
