@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhipsita Dasgupta</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+![White Minimalist Profile  Banner]()
+<h3 align="left">A passionate Data Analyst from India</h3>
 
 - 🌱 I’m currently advancing my skills with the **Google Advanced Data Analytics Professional Certificate**
 - 📫 You can reach me at **adasgupta.official@gmail.com**
