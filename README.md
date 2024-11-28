@@ -15,6 +15,9 @@
 - Data Analysis Tools: Excel, Tableau, Power BI, MySQL
 - Platform:  Jupyter Notebook, Visual Studio Code
 - Frameworks: Pandas, Numpy, Matplotlib, Seborn, Scipy
+
+### 📚 Projects
+Welcome to my portfolio, where I showcase my [Projects](https://github.com/DasguptaAbhi/Project-Portfolio-)
   
 
 ### 🛢 Databases
