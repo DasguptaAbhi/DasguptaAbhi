@@ -17,7 +17,7 @@
 - Frameworks: Pandas, Numpy, Matplotlib, Seborn, Scipy
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my [Projects](https://github.com/DasguptaAbhi/Project-Portfolio-)
+- Welcome to my portfolio, where I showcase my [Projects](https://github.com/DasguptaAbhi/Project-Portfolio-)
   
 
 ### 🛢 Databases
